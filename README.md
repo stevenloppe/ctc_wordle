@@ -12,3 +12,7 @@ Requirements were:
 >- In the correct spot
 >- In the word, but not in the correct spot
 >- Not in the word at all
+
+## Demo
+
+Is here: https://stevenloppe.github.io/ctc_wordle/
