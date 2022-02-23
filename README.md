@@ -1,6 +1,6 @@
 # Read Me
 
-This is a quick and dirty "Starter Project" for a Code the Change volunteer position to prove I can write code.
+This is a quick and dirty "Starter Project" for a Code the Change YYC volunteer position to prove I can write code.
 
 ## Instructions
 
@@ -12,3 +12,7 @@ Requirements were:
 >- In the correct spot
 >- In the word, but not in the correct spot
 >- Not in the word at all
+
+## Demo
+
+Is here: https://stevenloppe.github.io/ctc_wordle/
